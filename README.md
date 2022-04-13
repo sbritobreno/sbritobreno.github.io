@@ -3,7 +3,7 @@ Web Design and Development | Breno Brito
 # Personal Portfolio Website
 https://sbritobreno.github.io/Portfolio/myWebsite/index.html
 # CollegeExercises
-https://sbritobreno.github.io/index.html/
+sbritobreno.github.io/index.html/
 # Snazzy Fashion-CollegeProject
 https://sbritobreno.github.io/portfolio_year2/SnazzyFashion/index.html
 # Van Gogh-CollegeProject
@@ -15,5 +15,5 @@ https://sbritobreno.github.io/portfolio_year2/CryptoWallet/index.html
 # Project-Hero
 https://sbritobreno.github.io/portfolio_year2/project-hero/index.html
 # Weather
-https://sbritobreno.github.io/portfolio_year2/weather/index.html
+https://sbritobreno.github.io/portfolio_year2/javascript/weather/index.html
 
