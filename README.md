@@ -1,7 +1,7 @@
 # sbritobreno.io
 Web Design and Development | Breno Brito
 # Personal Portfolio Website
-https://sbritobreno.github.io/Portfolio/myWebsite/index.html
+https://sbritobreno.github.io/myWebsite/index.html
 # CollegeExercises
 https://sbritobreno.github.io/sbritobreno.github.io/index.html/
 # Snazzy Fashion-CollegeProject
