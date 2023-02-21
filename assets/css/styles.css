@@ -1,0 +1,73 @@
+/*  ============= WEB BROWSER RESETS ============ */
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+  --sans-serif: -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Fira Sans, Ubuntu, Oxygen, Oxygen Sans, Cantarell,
+    Droid Sans, Apple Color Emoji, Segoe UI Emoji, Segoe UI Emoji,
+    Segoe UI Symbol, Lucida Grande, Helvetica, Arial, sans-serif;
+}
+
+body {
+  overflow: hidden;
+}
+
+/*  ============= Header ============ */
+
+.header-block {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.header-bg-media {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+.header-bg-media img {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+}
+
+.header-block h1 {
+  font-size: calc(58px + (72 - 48) * ((100vw - 320px) / (1920 - 320)));
+  margin-bottom: 24px;
+  line-height: 1.2;
+  color: #ddd;
+}
+
+.header-text-container,
+.container-btn {
+  padding: 3% 10%;
+  z-index: 2;
+}
+
+.header-btn {
+  cursor: pointer;
+  color: #ddd;
+  border-radius: 10px;
+  border: 2px solid #ddd;
+  font-size: calc(18px + (19 - 18) * ((100vw - 320px) / (1920 - 320)));
+  text-decoration: none;
+  font-weight: bold;
+  font-family: var(--sans-serif);
+  padding: 1% 3%;
+  transition: all 0.3s linear;
+}
+
+.header-btn:hover {
+  background-color: #ddd;
+  color: #000;
+}
